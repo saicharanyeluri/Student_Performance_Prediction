@@ -1,4 +1,5 @@
 Predicting Student Performance Using Logistic Regression
+
 Overview:
 Our project aims to predict student performance, specifically identifying whether a student will drop out or graduate, using logistic regression. By leveraging data from the 'student_performance.csv' dataset, we aim to develop a predictive model that helps educational institutions identify at-risk students early and implement interventions to improve retention rates.
 
